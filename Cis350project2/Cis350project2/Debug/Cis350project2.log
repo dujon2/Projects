@@ -1,0 +1,16 @@
+﻿  cis 350 program 2.cpp
+c:\users\dujon\onedrive\documents\visual studio 2017\projects\cis350project2\cis350project2\cis 350 program 2.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\dujon\onedrive\documents\visual studio 2017\projects\cis350project2\cis350project2\cis 350 program 2.cpp(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\dujon\onedrive\documents\visual studio 2017\projects\cis350project2\cis350project2\cis 350 program 2.cpp(80): warning C4018: '<': signed/unsigned mismatch
+c:\users\dujon\onedrive\documents\visual studio 2017\projects\cis350project2\cis350project2\cis 350 program 2.cpp(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\dujon\onedrive\documents\visual studio 2017\projects\cis350project2\cis350project2\cis 350 program 2.cpp(98): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dujon\onedrive\documents\visual studio 2017\projects\cis350project2\cis350project2\cis 350 program 2.cpp(114): warning C4018: '<': signed/unsigned mismatch
+c:\users\dujon\onedrive\documents\visual studio 2017\projects\cis350project2\cis350project2\cis 350 program 2.cpp(131): warning C4018: '<': signed/unsigned mismatch
+c:\users\dujon\onedrive\documents\visual studio 2017\projects\cis350project2\cis350project2\cis 350 program 2.cpp(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\dujon\onedrive\documents\visual studio 2017\projects\cis350project2\cis350project2\cis 350 program 2.cpp(145): warning C4018: '<': signed/unsigned mismatch
+c:\users\dujon\onedrive\documents\visual studio 2017\projects\cis350project2\cis350project2\cis 350 program 2.cpp(204): warning C4018: '<': signed/unsigned mismatch
+c:\users\dujon\onedrive\documents\visual studio 2017\projects\cis350project2\cis350project2\cis 350 program 2.cpp(215): warning C4018: '<': signed/unsigned mismatch
+c:\users\dujon\onedrive\documents\visual studio 2017\projects\cis350project2\cis350project2\cis 350 program 2.cpp(224): warning C4018: '<': signed/unsigned mismatch
+c:\users\dujon\onedrive\documents\visual studio 2017\projects\cis350project2\cis350project2\cis 350 program 2.cpp(300): warning C4018: '<': signed/unsigned mismatch
+  Cis350project2.vcxproj -> C:\Users\dujon\onedrive\documents\visual studio 2017\Projects\Cis350project2\Debug\Cis350project2.exe
+  Cis350project2.vcxproj -> C:\Users\dujon\onedrive\documents\visual studio 2017\Projects\Cis350project2\Debug\Cis350project2.pdb (Partial PDB)

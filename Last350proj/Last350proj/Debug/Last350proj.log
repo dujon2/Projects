@@ -1,0 +1,7 @@
+﻿  last350proj.cpp
+c:\users\dujon\onedrive\documents\visual studio 2017\projects\last350proj\last350proj\last350proj.cpp(80): warning C4018: '<': signed/unsigned mismatch
+c:\users\dujon\onedrive\documents\visual studio 2017\projects\last350proj\last350proj\last350proj.cpp(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\dujon\onedrive\documents\visual studio 2017\projects\last350proj\last350proj\last350proj.cpp(128): warning C4018: '<': signed/unsigned mismatch
+c:\users\dujon\onedrive\documents\visual studio 2017\projects\last350proj\last350proj\last350proj.cpp(179): warning C4018: '<': signed/unsigned mismatch
+  Last350proj.vcxproj -> C:\Users\dujon\OneDrive\Documents\Visual Studio 2017\Projects\Last350proj\Debug\Last350proj.exe
+  Last350proj.vcxproj -> C:\Users\dujon\OneDrive\Documents\Visual Studio 2017\Projects\Last350proj\Debug\Last350proj.pdb (Partial PDB)
